@@ -20,7 +20,7 @@ regions = ["USA", "China", "Japan", "Germany", "United Kingdom", "India", "Franc
                "United Arab Emirates", "Pakistan",
                "Chile", "Colombia", "Finland", "Romania", "Czechia", "New Zealand", "Portugal", "Iran", "Peru"]
 
-subscription_key = 'afaafd0c8d2647e3b0aa2a8303c931e8'
+subscription_key = '279736592a3b4146ab883a01e98afcc3'
 main_directory = 'data'
 
 
